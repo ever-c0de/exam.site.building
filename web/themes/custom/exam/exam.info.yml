@@ -1,0 +1,34 @@
+name: exam
+type: theme
+description: 'exam subtheme'
+core: 8.x
+core_version_requirement: ^8 || ^9
+base theme: bootstrap4
+
+# Stylesheets.
+
+#stylesheets-remove:
+#  - '@bootstrap4/css/style.css'
+
+# Libraries.
+libraries:
+  - exam/global-styling
+
+# Regions.
+regions:
+  header: 'Header'
+  nav_branding: 'Navigation branding region'
+  nav_main: 'Main navigation region'
+  nav_additional: 'Additional navigation region (eg search form, social icons, etc)'
+  header_bottom: 'My custom text block'
+  breadcrumb: 'Breadcrumbs'
+  content: 'Main content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'
+  projects_section: 'projects_section'
+  team_section: 'team_section'
+  news_section: 'news_section'
+  clients_section: 'clients_section'
+
+

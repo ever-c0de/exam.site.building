@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96c77ae1-8306-4e25-901e-8b7c7e2dfe5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$/web</drupalPath>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/drupal/core-project-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/drupal/core-composer-scaffold" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/vendor/pear/archive_tar" />
+      <path value="$PROJECT_DIR$/vendor/typo3/phar-stream-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iRuJwyyb6KBFGUFmpH96QUU5xO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/web/themes/custom/exam/templates/block" />
+      <recent name="$PROJECT_DIR$/web/themes/custom/exam/templates/layout" />
+      <recent name="$PROJECT_DIR$/web/themes/custom/exam/img" />
+      <recent name="$PROJECT_DIR$/web/sites/default" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c77ae1-8306-4e25-901e-8b7c7e2dfe5b" name="Default Changelist" comment="" />
+      <created>1601882659157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601882659157</updated>
+      <workItem from="1601882660708" duration="1205000" />
+      <workItem from="1601884933992" duration="148000" />
+      <workItem from="1601885092145" duration="7641000" />
+      <workItem from="1601976132169" duration="2411000" />
+      <workItem from="1602057136694" duration="1092000" />
+      <workItem from="1602225739173" duration="17797000" />
+      <workItem from="1602490100835" duration="15613000" />
+      <workItem from="1602572335306" duration="4521000" />
+      <workItem from="1602769087326" duration="4776000" />
+      <workItem from="1602828595428" duration="18837000" />
+      <workItem from="1603028240151" duration="7525000" />
+      <workItem from="1603040848046" duration="8952000" />
+      <workItem from="1603087378678" duration="24220000" />
+      <workItem from="1603170588707" duration="1851000" />
+      <workItem from="1603173554282" duration="10000" />
+      <workItem from="1603184047288" duration="1578000" />
+      <workItem from="1603346813889" duration="4990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2697" y="400" width="355" height="245" key="#Drupal" timestamp="1601882769020">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2697" y="400" width="355" height="245" key="#Drupal/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1601882769020" />
+    <state x="2658" y="266" width="424" height="520" key="FileChooserDialogImpl" timestamp="1601882766371">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2658" y="266" width="424" height="520" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1601882766371" />
+    <state x="2369" y="154" width="1022" height="737" key="SettingsEditor" timestamp="1601885052266">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="154" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1601885052266" />
+    <state x="763" y="212" width="384" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603028345072">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="763" y="212" width="384" height="622" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.985@0.27.1920.985" timestamp="1603028345072" />
+    <state x="2989" y="139" width="676" height="831" key="find.popup" timestamp="1601890761769">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2989" y="139" width="676" height="831" key="find.popup/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1601890761769" />
+    <state x="624" y="245" key="run.anything.popup" timestamp="1602233553019">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="624" y="245" key="run.anything.popup/1920.0.1920.1080/0.27.1920.985@0.27.1920.985" timestamp="1602233553019" />
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1603111267097">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.985@0.27.1920.985" timestamp="1603111267097" />
+    <state x="2543" y="242" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1602856282471" />
+    <state x="2605" y="393" width="540" height="259" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601886137756">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2605" y="393" width="540" height="259" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/0.27.1920.985@1920.0.1920.1080" timestamp="1601886137756" />
+  </component>
+</project>

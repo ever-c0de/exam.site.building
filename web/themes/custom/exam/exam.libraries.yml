@@ -1,0 +1,10 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    ../../../sites/default/libraries/slick/slick/slick.js: {}
+    js/my-slider.js: {}
+    dependencies:
+      - core/jquery
+      - core/jquery.once
